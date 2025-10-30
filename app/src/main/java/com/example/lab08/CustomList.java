@@ -24,4 +24,6 @@ public class CustomList {
     public void delCity(City city) {
         cities.remove(city);
     }
+
+
 }
